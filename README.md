@@ -1,3 +1,8 @@
+#About this project
+
+This project is developed with the motive of comparision of  the prices of different products of eccommerce websites.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
